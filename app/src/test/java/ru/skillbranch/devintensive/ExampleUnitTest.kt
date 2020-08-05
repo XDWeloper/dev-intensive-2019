@@ -1,4 +1,4 @@
-package ru.skillbranch.dev_intensive_2019
+package ru.skillbranch.devintensive
 
 import org.junit.Test
 
